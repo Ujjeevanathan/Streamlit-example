@@ -18,16 +18,16 @@ stl.write("CloudThat incepted in 2012 is the first Indian organization to offer 
 
 # success
  
-st.success("Success")
+stl.success("Success")
  
 # warning
  
-st.warning("Warning")
+stl.warning("Warning")
  
 # error
  
-st.error("Error")
+stl.error("Error")
  
 # information
  
-st.info("Information")
+stl.info("Information")
